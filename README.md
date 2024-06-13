@@ -78,9 +78,7 @@ the static web azure![Screenshot 2024-06-13 225952](https://github.com/Raman-Mau
 
 ![Screenshot (201)](https://github.com/Raman-Maurya/frt-project/assets/159642215/ff2c4fbf-baf4-4c81-bc66-2dbab7691ced)
 
-**This is the link provided by Azure Storage Accounts:**
-
- https://black-bush-061d1e610.5.azurestaticapps.net/
+## This is the link provided by Azure Storage Accounts: https://black-bush-061d1e610.5.azurestaticapps.net/
 
 
 # steps to follow for deployment of azure health bot:
