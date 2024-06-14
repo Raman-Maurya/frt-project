@@ -4,7 +4,7 @@
 
 -> Project Link:  https://raman-maurya.github.io/frt-project/
 
--> Project Demo video Link: xyz
+-> Project Demo video Link: https://youtu.be/FPZTx1faCTo
 
 **Azure core technologies used for project**
 
